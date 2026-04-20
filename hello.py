@@ -8,3 +8,5 @@ print("Hello, Git!")
 
 
 # Added by the other user
+
+# This is a new line added by the other user
