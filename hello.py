@@ -1,6 +1,7 @@
 name = input("What is your name? ")
 print(f"Hello, {name}!")
 print("Hello, Git!")
+print("Branching is fun!")
 
  # TO-DO commit this file to the local repo
 
